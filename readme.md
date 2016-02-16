@@ -1,8 +1,6 @@
 # The C Programming Language -- ANSI C 
-## Brian W. C. Kernighan & Dennis M. Ritchie 
-Prentice Hall, 1988 
-
-# link http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf
+## Brian W. C. Kernighan & Dennis M. Ritchie - Prentice Hall, 1988 
+## link:  http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf
 
 This is my attempt to relearn C and become a better programmer
 
